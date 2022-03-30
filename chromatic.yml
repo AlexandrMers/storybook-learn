@@ -1,4 +1,3 @@
-# Workflow name
 name: 'Chromatic Deployment'
 
 # Event for the workflow
